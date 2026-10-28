@@ -1,4 +1,4 @@
 window.MIMOGANE_CONFIG = {
-  url: "YOUR_SUPABASE_PROJECT_URL",
-  anonKey: "YOUR_SUPABASE_PUBLISHABLE_OR_ANON_KEY"
+  url: "https://fnuepmgjvinuvnppsvyf.supabase.co/rest/v1/",
+  anonKey: "sb_publishable_s-tUuUHnWHnref7ljFiKyA_m7Ha7AQu"
 };
